@@ -1,4 +1,4 @@
-# image-segmentation-python# Python Image Segmentation
+# Python Image Segmentation
 
 A Python-based command-line tool for image processing and object segmentation. This project was developed to isolate objects of interest from their background using binary masks, automatic thresholding, and contour mapping.
 
